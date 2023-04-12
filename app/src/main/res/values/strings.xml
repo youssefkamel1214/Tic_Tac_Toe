@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic TacToe</string>
+    <string name="welcome_to_tic_tac_toe_game">Welcome to Tic Tac Toe Game</string>
+    <string name="change_roles">change roles</string>
+</resources>
